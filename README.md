@@ -23,11 +23,6 @@ This project explores factors affecting mental health among tech professionals u
 - **ROC-AUC Score:** 0.77
 - **Top Predictors:** Family history, work interference, remote work status
 
-## 📊 Dashboard Highlights
-- Age vs Treatment Analysis
-- Company Size vs Mental Health Support
-- Filterable by Country, Gender, Remote Work
-
 ## 📦 ML Techniques
 - Logistic Regression for treatment prediction
 - Clustering (KMeans) to segment high-risk employees
