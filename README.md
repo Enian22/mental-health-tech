@@ -20,7 +20,7 @@ This project explores factors affecting mental health among tech professionals u
 
 ## 🤖 Model Performance
 - **Model Used:** Random Forest Classifier
-- **ROC-AUC Score:** 0.82
+- **ROC-AUC Score:** 0.77
 - **Top Predictors:** Family history, work interference, remote work status
 
 ## 📊 Dashboard Highlights
